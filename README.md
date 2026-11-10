@@ -85,3 +85,14 @@ Schrijf acceptatiecriteria en testplan zodat de story controleerbaar is.
 - `.github/workflows/` – automatische checks en workflows
 - `.github/scripts/` – scripts voor projectcontrole
 - `docs/` – handleidingen en afspraken
+
+## Het project
+
+er is een website maar die draait extern die willen ze locaal zodat ze het makkelijker kunnen overzien. Daar zijn ze net mee begonnen dus er staat nog niks. Wat ze van ons verwachten is dat we van het een totaal een gedeelte maken wat van het hoofd gedeelte afbranched.
+
+- codetaal
+???
+
+- database
+relation welke ????
+
